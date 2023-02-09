@@ -10,7 +10,7 @@ avatar: /assets/img/photo.jpg
 round-avatar: true
 social-network-links:
   email: vsk2@williams.edu
-  rss: true
+ # rss: true
   facebook: deanattali
   github: victoriakimm
   # youtube: c/daattali
