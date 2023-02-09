@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Information I Might Need in the Future
+title: Information I Might Need in the Future
+subtitle: How to Use Markdown
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
