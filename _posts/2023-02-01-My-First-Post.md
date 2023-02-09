@@ -5,7 +5,7 @@ subtitle: My First Blog Post
 cover-img: /assets/img/thumbnail.png
 thumbnail-img: /assets/img/screenshot.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+#tags: [books, test]
 ---
 
 edited 
