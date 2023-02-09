@@ -6,4 +6,6 @@ subtitle: Victoria Kim
 
 ### My Story
 
-My name is Victoria Kim and I am currently a first year at Williams College. Born and raised just outside of Philadelphia, I grew up playing many sports. Ultimately, I stuck with golf and continued to play golf throughout middle and high school. The game of golf taught be many skills such as working well under pressure and learning a self-determined, individualistic mindset. I was able to find success as a junior golfer and won many tournamnets and was ranked nationally. I also had the honor of being the 2020 PA State Champion. Playing golf helped me get recruited to play at Williams College. During my freshman fall season my team won 3/6 of our events in addition to an individual win of my own. Now I hope to pursue major in Mathematics and Economics to eventually become a part of the financial services industry.
+My name is Victoria Kim and I am currently a first year at Williams College. Born and raised just outside of Philadelphia, I came to Williams to participate on the Williams Women's Golf Team. Our Fall season has been really eventful, and I am really excited to start our spring season on February 14th! 
+
+I decided to enroll in CSCI 103 in order to get a taste of what computer science is like. I have never taken a computer science class before, and have always been curious. I think this class is the perfect way to get a taste of CS without the high pressure of having to perform. The class has been super fun so far, and I am excited to learn more!
