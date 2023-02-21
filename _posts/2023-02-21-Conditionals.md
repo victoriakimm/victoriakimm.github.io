@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If, If else, and Else Statements
+title: If, Else If, and Else Statements
 subtitle: Learning Conditionals
 cover-img: /assets/img/thumbnail.png
 thumbnail-img: /assets/img/221.jpg
