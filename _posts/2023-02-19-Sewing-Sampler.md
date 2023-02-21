@@ -4,7 +4,7 @@ title: Sewing Sampler
 subtitle: Trying Different Stitches
 cover-img: /assets/img/thumbnail.png
 thumbnail-img: /assets/img/sewing.png
-share-img: 
+share-img: /assets/img/sewing.png
 #tags: [sewing]
 ---
 
