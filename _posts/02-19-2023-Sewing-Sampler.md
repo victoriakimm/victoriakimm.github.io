@@ -9,5 +9,4 @@ share-img: /assets/img/IMG_3320.HEIC
 ---
 
 Something that I would tell to my past self about this assignment is to make sure to read the directions correctly. I found that I wasted a lot of time 
-doing certain stitches in the wrong places. In addition, I found it helpful to pre-poke holes into the outline so that it was easier to see where to continue.
-Another thing that I found was helpful was to hold the cloth upwards instead having it resting on a surface. Holding the fabric upwards really helped with speed.
+doing certain stitches in the wrong places. In addition, I found it helpful to pre-poke holes into the outline so that it was easier to see where to continue. Another thing that I found was helpful was to hold the cloth upwards instead having it resting on a surface. Holding the fabric upwards really helped with speed.
