@@ -3,7 +3,7 @@ layout: post
 title: Sewing Sampler
 subtitle: Trying Different Stitches
 cover-img: /assets/img/thumbnail.png
-thumbnail-img: /assets/img/sewing.jpg
+thumbnail-img: /assets/img/sewing.png
 share-img: 
 #tags: [sewing]
 ---
