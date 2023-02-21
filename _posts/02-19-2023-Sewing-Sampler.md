@@ -5,7 +5,7 @@ subtitle: Trying Different Stitches
 cover-img: /assets/img/thumbnail.png
 thumbnail-img: /assets/img/IMG_3320.HEIC
 share-img: /assets/img/IMG_3320.HEIC
-#tags: [books, test]
+#tags: [sewing]
 ---
 
 Something that I would tell to my past self about this assignment is to make sure to read the directions correctly. I found that I wasted a lot of time 
