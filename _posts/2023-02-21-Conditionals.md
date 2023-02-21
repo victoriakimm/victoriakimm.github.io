@@ -4,7 +4,7 @@ title: If, If else, and Else Statements
 subtitle: Learning Conditionals
 cover-img: /assets/img/thumbnail.png
 thumbnail-img: /assets/img/221.jpg
-share-img: 
+share-img: /assets/img/221.jpg
 #tags: [coding]
 ---
 
