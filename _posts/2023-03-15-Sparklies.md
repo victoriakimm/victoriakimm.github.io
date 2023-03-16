@@ -14,7 +14,11 @@ Tip/Trick: I would recommend thinking aobut the timing of each action happening 
 
 
 ![red](https://victoriakimm.github.io/assets/img/red.png)
+
 ![yellow](https://victoriakimm.github.io/assets/img/yellow.png)
+
 ![green](https://victoriakimm.github.io/assets/img/green.png)
+
 ![sparkliesfront](https://victoriakimm.github.io/assets/img/sparkliesfront.png)
+
 ![sparkliesback](https://victoriakimm.github.io/assets/img/sparkliesback.png) 
