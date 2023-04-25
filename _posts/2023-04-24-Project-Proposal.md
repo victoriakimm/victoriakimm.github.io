@@ -2,10 +2,10 @@
 layout: post
 title: Project Proposal
 subtitle: Proposal
-cover-img: /assets/img/thumbnail.jpg
-thumbnail-img: /assets/img/proposal.jpg
-share-img: /assets/img/proposal.jpg
+cover-img: /assets/img/thumbnail.jpeg
+thumbnail-img: /assets/img/proposal.jpeg
+share-img: /assets/img/proposal.jpeg
 #tags: [code]
 ---
 
-![proposal](https://victoriakimm.github.io/assets/img/proposal.jpg)
+![proposal](https://victoriakimm.github.io/assets/img/proposal.jpeg)
