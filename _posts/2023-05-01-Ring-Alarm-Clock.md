@@ -3,8 +3,8 @@ layout: post
 title: Paper Proposal
 subtitle: Proposal
 cover-img: /assets/img/thumbnail.jpeg
-thumbnail-img: /assets/img/paper.jpeg
-share-img: /assets/img/paper.jpeg
+thumbnail-img: /assets/img/paper.jpg
+share-img: /assets/img/paper.jpg
 #tags: [code]
 ---
 
