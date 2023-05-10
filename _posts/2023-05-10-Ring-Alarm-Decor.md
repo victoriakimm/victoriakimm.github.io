@@ -10,16 +10,24 @@ share-img: /assets/img/paper.jpg
 
 Ring Alarm Decor:
 
-Empty space on your bedroom wall? Need an alarm clock? Ring Alarm Decor doubles as both an alarm clock and a stylish way to decorate your room. When a certain brightness theshold is reached, a buzzer and light will go off at the same time, indicating that it is time to wake up. 
+Have an empty space on your bedroom wall? Need an alarm clock? Ring Alarm Decor doubles as both an alarm clock and a stylish way to decorate your room. When you turn on a switch and a certain brightness theshold is reached, a buzzer and 4 leds will go off simultaneously, indicating that it is time to wake up. 
+
+
 
 Materials:
 
 2  pieces of White Felt (8.5”x11”)
+
 Tan Colored Twine (2ft)
+
 1 LilyPad LED
+
 1 Sewable Battery Holder
+
 1 Coin Cell Battery
+
 Conductive Thread
+
 Thread, Needle, Scissors
 
 Tip #1: Before using the conductive thread, I would recommend holding all of your components down with thinner thread. This allowed connecting the negatives and positives as well as making sure everything was neatly placed a lot easier.
@@ -31,4 +39,4 @@ Tip #3: Before writing the code, I would recommend commenting on each stage of w
 ![allg](https://victoriakimm.github.io/assets/img/allg.png)
 ![pt1](https://victoriakimm.github.io/assets/img/pt1.png)
 ![pt2](https://victoriakimm.github.io/assets/img/pt2.png)
-![paper](https://victoriakimm.github.io/assets/img/paper.png)
+![paper](https://victoriakimm.github.io/assets/img/paper.jpg)
