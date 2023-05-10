@@ -27,4 +27,7 @@ Tip #2: I would recommend taping the conductive thread on the wrong side of your
 
 Tip #3: Before writing the code, I would recommend commenting on each stage of what you intend your code to complete. I found that this helped me organize my thoughts and complete the code in an efficient manner.
 
-![paper](https://victoriakimm.github.io/assets/img/paper.jpg)
+![allg](https://victoriakimm.github.io/assets/img/allg.png)
+![pt1](https://victoriakimm.github.io/assets/img/pt1.png)
+![pt2](https://victoriakimm.github.io/assets/img/pt2.png)
+![paper](https://victoriakimm.github.io/assets/img/paper.png)
