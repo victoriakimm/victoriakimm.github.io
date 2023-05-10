@@ -34,7 +34,7 @@ Tip #1: Before using the conductive thread, I would recommend holding all of you
 
 Tip #2: I would recommend taping the conductive thread on the wrong side of your project down. I had some troubles with my circuit, which was caused by the ends of the conductive thread touching each other.
 
-Tip #3: Before writing the code, I would recommend commenting on each stage of what you intend your code to complete. I found that this helped me organize my thoughts and complete the code in an efficient manner.
+Tip #3: Before writing the code, I recommend creating comments for each stage of what you intend your code to complete. I found that this helped me organize my thoughts and complete the code in an efficient manner.
 
 ![prop](https://victoriakimm.github.io/assets/img/prop.png)
 ![allg](https://victoriakimm.github.io/assets/img/allg.png)
