@@ -10,7 +10,7 @@ share-img: /assets/img/paper.jpg
 
 Ring Alarm Decor:
 
-Have an empty space on your bedroom wall? Need an alarm clock? Ring Alarm Decor doubles as both an alarm clock and a stylish way to decorate your room. When you turn on a switch and a certain brightness theshold is reached, a buzzer and 4 leds will go off simultaneously, indicating that it is time to wake up. 
+Have an empty space on your bedroom wall? Need an alarm clock? Ring Alarm Decor doubles as both an alarm clock and a stylish way to decorate your room. When you turn on a switch and a certain brightness theshold is reached, a buzzer and four leds will go off simultaneously, indicating that it is time to wake up. 
 
 
 
