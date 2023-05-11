@@ -3,8 +3,8 @@ layout: post
 title: Ring Alarm
 subtitle: Final Project
 cover-img: /assets/img/thumbnail.jpeg
-thumbnail-img: /assets/img/paper.jpg
-share-img: /assets/img/paper.jpg
+thumbnail-img: /assets/img/final.png
+share-img: /assets/img/final.png
 #tags: [code]
 ---
 
@@ -40,3 +40,4 @@ Tip #3: Before writing the code, I recommend creating comments for each stage of
 ![allg](https://victoriakimm.github.io/assets/img/allg.png)
 ![pt1](https://victoriakimm.github.io/assets/img/pt1.png)
 ![pt2](https://victoriakimm.github.io/assets/img/pt2.png)
+![final](https://victoriakimm.github.io/assets/img/final.png)
