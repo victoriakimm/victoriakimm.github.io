@@ -18,7 +18,7 @@ Materials:
 
 2  pieces of White Felt (8.5”x11”)
 
-Tan Colored Twine (2ft)
+Black Colored String (3ft)
 
 1 LilyPad LED
 
